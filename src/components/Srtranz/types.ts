@@ -1,0 +1,1 @@
+export type Section = "home" | "fleet" | "tours" | "about" | "contact";
